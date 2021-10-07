@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liao, Jie (廖捷)"
+title: "Hanwen, Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ## Liao, Jie (廖捷) -->
+<!-- ## Hanwen Zhang -->
 ## Correspondence
 
-* Email: liaojie@cqu.edu.cn
+* Email: hanwenzhang@cqu.edu.cn
 
 ## Brief Biography
-Liao, Jie is a first-year Ph.D. student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Mathematics and Statistics, Chongqing University](http://sci.cqu.edu.cn/).
+Liao, Jie is a first-year Ph.D. student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Computer Science and Technology, China University of Petroleum](http://sci.cqu.edu.cn/).
 
 His current research interests include Recommender System and Graph Neural Network.
 
 ## Preprint
-- **Jie Liao**, Wei Zhou, Junhao Wen, Min Gao, Xiuhua Li, Jun Zeng, Fengji Luo. **SocialLGN: Light Graph Convolution Network for Social Recommendation.** (under journal submission)
+- **Hanwen Zhang**, Wei Zhou, Junhao Wen, Lin Liu, Jun Zeng, Min Gao. **Modeling Multi-Attribute and Implicit Relationship Factors for Collaborative Filtering Recommender System.**
