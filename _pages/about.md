@@ -14,7 +14,7 @@ redirect_from:
 * Email: hanwenzhang@cqu.edu.cn
 
 ## Brief Biography
-Hanwen Zhang is a graduate student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Computer Science and Technology, China University of Petroleum](http://sci.cqu.edu.cn/).
+Hanwen Zhang is a graduate student at [School of Big Data & Software Engineering, Chongqing University ](http://www.cse.cqu.edu.cn/). He completed his BS at [College of Computer Science and Technology, China University of Petroleum](http://www.upc.edu.cn/).
 
 His current research interests include Recommender System and Graph Neural Network.
 
